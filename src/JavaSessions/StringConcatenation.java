@@ -35,6 +35,7 @@ public class StringConcatenation {
 		
 		//System.out.println('A2');
 		//System.out.println('A1'/'A2');
+		System.out.println("adding ... new lines for git concept");
 	}
 
 }
